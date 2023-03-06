@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="java basic">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasic/Addition1.java" afterDir="false" />
+    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="addition with two numbers">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasic/ComputeArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678121779018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="addition with two numbers">
+      <created>1678122922567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678122922567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="java basic" />
+    <MESSAGE value="addition with two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="addition with two numbers" />
   </component>
 </project>
