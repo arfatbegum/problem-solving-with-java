@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="Calculates and prints the distance area and&#10;perimeter of the hexagonal">
-      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/FinalExamPermission.java" afterDir="false" />
+    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="reads from the user two float&#10;values and then prints the total score of the student">
+      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678207535032</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="reads from the user two float&#10;values and then prints the total score of the student">
+      <created>1678208631727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678208631727</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +146,7 @@
     <MESSAGE value="computes and displays users sum and average" />
     <MESSAGE value="read different types of information from the user" />
     <MESSAGE value="Calculates and prints the distance area and&#10;perimeter of the hexagonal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculates and prints the distance area and&#10;perimeter of the hexagonal" />
+    <MESSAGE value="reads from the user two float&#10;values and then prints the total score of the student" />
+    <option name="LAST_COMMIT_MESSAGE" value="reads from the user two float&#10;values and then prints the total score of the student" />
   </component>
 </project>
