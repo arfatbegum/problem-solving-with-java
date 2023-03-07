@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="reads from the user two float&#10;values and then prints the total score of the student">
-      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/Triangle.java" afterDir="false" />
+    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="computes the area and perimeter of a triangle">
+      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678208631727</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="computes the area and perimeter of a triangle">
+      <created>1678209912888</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678209912888</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +154,7 @@
     <MESSAGE value="read different types of information from the user" />
     <MESSAGE value="Calculates and prints the distance area and&#10;perimeter of the hexagonal" />
     <MESSAGE value="reads from the user two float&#10;values and then prints the total score of the student" />
-    <option name="LAST_COMMIT_MESSAGE" value="reads from the user two float&#10;values and then prints the total score of the student" />
+    <MESSAGE value="computes the area and perimeter of a triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="computes the area and perimeter of a triangle" />
   </component>
 </project>
