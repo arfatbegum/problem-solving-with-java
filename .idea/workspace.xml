@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="Calculates and prints the distance d between the point&#10;p and the center of the circle">
-      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/SumTwoOddIntegers.java" afterDir="false" />
+    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="Calculates and prints the sum two odd int">
+      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/FahrenheitToCelsius.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678287707941</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Calculates and prints the sum two odd int">
+      <created>1678288383159</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678288383159</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +178,7 @@
     <MESSAGE value="computes the area and perimeter of a triangle" />
     <MESSAGE value="Checks and prints Leap year" />
     <MESSAGE value="Calculates and prints the distance d between the point&#10;p and the center of the circle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculates and prints the distance d between the point&#10;p and the center of the circle" />
+    <MESSAGE value="Calculates and prints the sum two odd int" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculates and prints the sum two odd int" />
   </component>
 </project>
