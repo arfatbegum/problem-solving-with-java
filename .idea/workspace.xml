@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="Calculates and prints the sum two odd int">
-      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/FahrenheitToCelsius.java" afterDir="false" />
+    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="Calculates and prints both Fahrenheit and Celsius degrees">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamQuestions/FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamQuestions/FahrenheitToCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamQuestions/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamQuestions/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/SAYTECH/IdeaProjects/problem-solving-with-java/src",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SAYTECH/IdeaProjects/problem-solving-with-java/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\SAYTECH\IdeaProjects\problem-solving-with-java\src" />
@@ -153,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678288383159</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Calculates and prints both Fahrenheit and Celsius degrees">
+      <created>1678295451379</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678295451379</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +187,7 @@
     <MESSAGE value="Checks and prints Leap year" />
     <MESSAGE value="Calculates and prints the distance d between the point&#10;p and the center of the circle" />
     <MESSAGE value="Calculates and prints the sum two odd int" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculates and prints the sum two odd int" />
+    <MESSAGE value="Calculates and prints both Fahrenheit and Celsius degrees" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculates and prints both Fahrenheit and Celsius degrees" />
   </component>
 </project>

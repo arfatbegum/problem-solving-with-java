@@ -12,8 +12,13 @@ public class Triangle {
         double s = (a+b+c)/2;
         double area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
         double perimeter=a+b+c;
-        System.out.printf("Area= %.2f\n", area);
-        System.out.printf("perimeter= %.2f\n ", perimeter);
+
+       if(a<0 || b<0 || c<0)
+       System.out.println("Invalid Inputs");
+       else {
+           System.out.printf("Area= %.2f\n", area);
+           System.out.printf("perimeter= %.2f\n ", perimeter);
+       }
 
     }
 }
