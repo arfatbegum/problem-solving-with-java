@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="calculates and prints the complete area and&#10;the volume of the cylinder.">
-      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/GPAChecked.java" afterDir="false" />
+    <list default="true" id="5d19fca2-321b-4c42-b7f8-cd43be059dd1" name="Changes" comment="calculates and prints GPA and credit hours.">
+      <change afterPath="$PROJECT_DIR$/src/ExamQuestions/MaxCreditHours.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678307285007</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="calculates and prints GPA and credit hours.">
+      <created>1678377816401</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678377816401</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +234,7 @@
     <MESSAGE value="Calculates and prints both Fahrenheit and Celsius degrees" />
     <MESSAGE value="Calculate and prints the value of BMI" />
     <MESSAGE value="calculates and prints the complete area and&#10;the volume of the cylinder." />
-    <option name="LAST_COMMIT_MESSAGE" value="calculates and prints the complete area and&#10;the volume of the cylinder." />
+    <MESSAGE value="calculates and prints GPA and credit hours." />
+    <option name="LAST_COMMIT_MESSAGE" value="calculates and prints GPA and credit hours." />
   </component>
 </project>
